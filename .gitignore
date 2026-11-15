@@ -1,0 +1,19 @@
+# Binarios compilados
+/bin/
+butaca
+*.exe
+*.test
+
+# Cobertura y perfiles
+*.out
+coverage.html
+
+# Entorno local
+.env
+.env.local
+
+# Editores
+.idea/
+.vscode/
+*.swp
+.DS_Store
